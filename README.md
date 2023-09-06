@@ -1,4 +1,4 @@
-# Core-Java-patterns
+# Core-Java-Patterns
 
 Includes Java related questions and answer.
 
